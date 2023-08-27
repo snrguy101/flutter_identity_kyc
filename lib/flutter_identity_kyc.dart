@@ -87,7 +87,7 @@ class FlutterIdentityKyc {
       /*
        error on widget handler
     */
-      Navigator.pop(parameters.context);
+      
       parameters.onError(data);
     }
 
